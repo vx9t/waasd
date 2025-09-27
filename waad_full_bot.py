@@ -14,10 +14,10 @@ from telegram import Update, ChatPermissions
 from telegram.ext import Updater, MessageHandler, Filters, CallbackContext
 
 # ---------------- CONFIG ----------------
-TOKEN = os.environ.get("WAAD_BOT_TOKEN", "PUT_YOUR_BOT_TOKEN_HERE")
+TOKEN = os.environ.get("WAAD_BOT_TOKEN", "8268973413:AAEPOUOQ8twbwEDoq1IRleg2UEoFvr4561k")
 DATA_FILE = "bot_data.json"
 # ضع هنا ايدي بتاعك كمالك اساسي لو حابب، مثال: [123456789]
-OWNER_IDS = []  
+OWNER_IDS = [8492489344]  
 RECENT_MSG_LIMIT = 300
 # ----------------------------------------
 
