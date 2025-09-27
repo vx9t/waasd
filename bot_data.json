@@ -1,0 +1,20 @@
+{
+  "example_chat_id": {
+    "welcome": "أهلاً بك {name} في المجموعة 🎉",
+    "filters": [
+      "سب",
+      "بذاءة"
+    ],
+    "warns": {},
+    "locks": {
+      "links": false,
+      "media": false,
+      "stickers": false,
+      "chat_locked": false
+    },
+    "managers": [],
+    "muted": {},
+    "banned": [],
+    "recent_msgs": []
+  }
+}
